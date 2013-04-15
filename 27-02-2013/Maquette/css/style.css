@@ -1,0 +1,156 @@
+/* 
+    Document   : style
+    Created on : 27 févr. 2013, 13:49:49
+    Author     : x
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+.nav-align{
+    margin-top: 8px;
+}
+
+
+footer{
+    background-color: #BABABA;
+    height:100px;
+    padding:40px;
+}
+
+.block-center{
+    text-align: center;
+}
+
+.block-margin{
+   padding: 10px 0;
+}
+
+
+
+
+.vert{
+    background-color: #285b20;
+
+}
+
+
+.bleu{
+    
+    background-color: #0095d9;
+}
+
+
+
+.jaune{
+    
+    background-color: #eed212;
+    
+}
+
+
+.jaune h4,.bleu h4,.vert h4{
+    
+    padding: 40px;
+    color:white;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 28px;
+}
+
+
+
+.input-mysize1 { width: 113px; }
+
+
+.input-mysize2 { width: 184px; }
+input.input-mysize2 { width: 175px; }
+
+.input-mysize3 { width: 290px; }
+
+.input-mysize4 { width: 1170px; }
+
+
+.text-green{
+    color:#69cf25;
+}
+
+.text-orange{
+    color:#ff970f;
+}
+
+.text-pink{
+    color:#ff6565;
+}
+
+.input-departement 
+{ 
+    margin-left: 116px ;
+    width: 189px;
+    
+}
+
+
+.input-modele { margin-left: 13px }
+
+
+
+
+.left{
+    float:left;
+    width: 350px;
+}
+
+.formulaire{
+    margin-top: 40px;
+}
+
+#map_canvas 
+{
+    height: 100% 
+}
+
+.container{
+    min-height: 340px;
+}
+
+.list-map{
+    background: url('../img/list-bg-map.png') no-repeat;
+    margin:25px 0;
+    
+}
+
+
+.map-list{
+    background:url('../img/map-list-bg.png');
+    height: 416px;
+    padding: 5px 20px;
+}
+
+.list-map ul{
+   padding: 20px 0; 
+}
+
+
+
+.list-map li
+{
+    list-style: none;
+}
+
+
+.right{
+    text-align: right;
+}
+
+.center{
+    text-align: center;
+}
+
+.footer-list li{
+    list-style: none;
+    
+}

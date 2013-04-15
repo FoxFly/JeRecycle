@@ -1,0 +1,19 @@
+Liste des vues:
+---------------
+1 page d'accueil
+1 page de connexion (formulaire)
+1 page d'inscription (formulaire)
+
+3 pages catégorie recyclage
+ 1 en mode déconnecté (affichage statique d'informations)
+ En mode connecté :
+   1 formulaire de sélection de catégorie de produit à recycler
+   1 page d'affichage des sites de recyclage les plus proches
+
+2 pages catégorie achat/vente
+ 1 page liste des annonces + formulaire pour affiner la recherche
+ 1 page dépôt d'annonce (formulaire)
+
+2 pages catégorie réparation
+ 1 page formulaire à remplir
+ 1 page liste des réparateurs les plus proches

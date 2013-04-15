@@ -1,0 +1,2 @@
+récupérer une coordonnée GPS d'une adresse : http://www.weboblog.fr/coordonnees-gps-dune-adresse
+positionner des points avec des coordonnées sur une map : http://pingouindesalpes.com/index.php?article144/
